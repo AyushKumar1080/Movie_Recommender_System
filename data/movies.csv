@@ -1,0 +1,21 @@
+id,title,genres,year,director,rating
+1,The Shawshank Redemption,Drama,1994,Frank Darabont,9.3
+2,The Godfather,"Crime, Drama",1972,Francis Ford Coppola,9.2
+3,The Dark Knight,"Action, Crime, Drama",2008,Christopher Nolan,9.0
+4,Pulp Fiction,"Crime, Drama",1994,Quentin Tarantino,8.9
+5,Forrest Gump,"Drama, Romance",1994,Robert Zemeckis,8.8
+6,Inception,"Action, Sci-Fi, Thriller",2010,Christopher Nolan,8.8
+7,The Matrix,"Action, Sci-Fi",1999,Lana Wachowski,8.7
+8,Goodfellas,"Biography, Crime, Drama",1990,Martin Scorsese,8.7
+9,The Lord of the Rings: The Fellowship,"Adventure, Drama, Fantasy",2001,Peter Jackson,8.8
+10,Star Wars: Episode IV,"Adventure, Fantasy, Sci-Fi",1977,George Lucas,8.6
+11,Casablanca,"Drama, Romance, War",1942,Michael Curtiz,8.5
+12,Titanic,"Drama, Romance",1997,James Cameron,7.8
+13,Avatar,"Action, Adventure, Fantasy",2009,James Cameron,7.8
+14,Interstellar,"Adventure, Drama, Sci-Fi",2014,Christopher Nolan,8.6
+15,The Avengers,"Action, Adventure, Sci-Fi",2012,Joss Whedon,8.0
+16,Joker,"Crime, Drama, Thriller",2019,Todd Phillips,8.4
+17,Parasite,"Comedy, Drama, Thriller",2019,Bong Joon Ho,8.6
+18,La La Land,"Comedy, Drama, Music",2016,Damien Chazelle,8.0
+19,Mad Max: Fury Road,"Action, Adventure, Sci-Fi",2015,George Miller,8.1
+20,The Grand Budapest Hotel,"Adventure, Comedy, Crime",2014,Wes Anderson,8.1
