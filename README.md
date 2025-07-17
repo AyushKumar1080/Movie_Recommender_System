@@ -38,13 +38,3 @@ Recommends movies based on genre preferences. It calculates similarity scores ba
 
 ### Collaborative Filtering
 Analyzes your movie ratings to understand preferences, then recommends movies from genres you've rated highly.
-
-## Customization
-
-- Add more movies to `data/movies.csv`
-- Modify HTML templates in `templates/` for custom styling
-- Extend recommendation algorithms in `utils/recommendation_engine.py`
-
-## License
-
-This project is open source and available under the MIT License.
